@@ -20,9 +20,21 @@
 					<SMX_menu_button_N_3 name="btnExit" width="230" height="50" caption_key="xuiMenuExit" pivot="center" />
 				</grid>
 
-				<label name="SMXeditionInfo" depth="99" style="SMX.edition.info" />
-				<label name="SMXversionInfo" depth="99" style="SMX.version.info" />
+				<label name="SMXeditionInfo" depth="99" style="SMX.edition.info" font_face="AgencyB" crispness="Never" />
+				<label name="SMXversionInfo" depth="99" style="SMX.version.info" font_face="AgencyB" crispness="Never" />
 
+				<!--texture name="SMXchangeLogHeader" depth="2" style="SMX.changelog.texture" pivot="center" />
+				<label name="SMXchangeLogHeader" depth="3" style="SMX.changelog.label" pivot="center" />
+				
+				<grid name="SMXchangeLogGrid" depth="2" style="SMX.changelog.grid" arrangement="vertical">
+					<label name="SMXchanges" depth="5" font_size="24" color="[white]" effect="outline" justify="left" upper_case="false" text_key="" />
+				</grid-->
+
+				<!--texture name="SMXchangeLog" depth="3" pos="800,60" size="700,500" texture="@modfolder:Textures/menu/smx_menu_info.png" pivot="center" /-->
+
+				<!--texture name="SMXserverInfoHeader" depth="2" pos="800,-320" size="750,200" texture="@modfolder:Textures/menu/smx_menu_info.png" pivot="center" />
+				<label name="SMXserverInfoHeader" depth="3" pos="800,-260" size="500,50" text="SERVER INFORMATION" font_size="40" color="[white]" effect="outline" justify="center" pivot="center" />
+				<texture name="SMXserverInfo" depth="3" pos="800,-400" size="700,180" texture="@modfolder:Textures/menu/smx_server_info.png" pivot="center" /-->
 			</window>
 		</append> -->
 

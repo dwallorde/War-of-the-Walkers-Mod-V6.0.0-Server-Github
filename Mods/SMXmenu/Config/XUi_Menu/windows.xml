@@ -48,8 +48,8 @@
 					<SMX_tfp_logo name="btnCredits" pos="0,0" width="160" height="56" caption_key="xuiCredits" pivot="center" />
 				</widget>
 
-				<label name="SMXeditionInfo" pos="60,-470" style="SMX.edition.info" />
-				<label name="SMXversionInfo" pos="60,-490" style="SMX.version.info" />
+				<label name="SMXeditionInfo" pos="60,-470" style="SMX.edition.info" font_face="AgencyB" crispness="Never" />
+				<label name="SMXversionInfo" pos="60,-490" style="SMX.version.info" font_face="AgencyB" crispness="Never" />
 
 			</window>
 		</append> -->
@@ -404,8 +404,8 @@
 						</rect>
 
 						<rect tab_key="xuiOptionsVideoQuality">
-							<videooption name="QualityPreset" pos="8,-40" type="ComboBoxList&lt;System.String&gt;" values="Low,Medium,High,Custom" value_wrap="false" />
-							<grid pos="8,-120" rows="10" cell_width="525" cell_height="45" repeat_content="false" arrangement="vertical">
+							<videooption name="QualityPreset" pos="8,-40" type="ComboBoxList&lt;System.String&gt;" values="Low,Medium,High,Ultra,Custom" value_wrap="false" />
+							<grid pos="8,-110" rows="11" cell_width="525" cell_height="42" repeat_content="false" arrangement="vertical">
 								<videooption name="AntiAliasing" type="ComboBoxBool" />
 								<videooption name="TextureQuality" type="ComboBoxList&lt;System.String&gt;" values="Full,Half,Quarter,Eighth" value_wrap="false" reverse_list="true" />
 								<videooption name="UMATextureQuality" type="ComboBoxList&lt;System.String&gt;" values="High,Middle,Low,Lowest" value_wrap="false" reverse_list="true" />
