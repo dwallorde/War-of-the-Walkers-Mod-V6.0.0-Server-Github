@@ -9,8 +9,8 @@
     <property name="DistantPOIYOffset" value="0" />
     <property name="AllowedTownships" value="city,rural,town" />
     <property name="SleeperVolumeStart" value="0, 1, 0" />
-    <property name="SleeperVolumeSize" value="33, 3, 37" />
-    <property name="SleeperVolumeGroup" value="S_DwallsAutoGroup_XL,-1,-1" />
+    <property name="SleeperVolumeSize" value="33, 6, 37" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,9,10" />
     <property name="SleeperVolumeGameStageAdjust" value="" />
     <property name="SleeperIsLootVolume" value="False" />
     <property name="ExcludePOICulling" value="False" />

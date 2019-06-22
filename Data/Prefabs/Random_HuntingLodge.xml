@@ -8,10 +8,10 @@
     <property name="DistantPOIYOffset" value="0" />
     <property name="SleeperVolumeStart" value="2, 1, 0#0, 7, 4" />
     <property name="SleeperVolumeSize" value="9, 5, 21#13, 6, 22" />
-    <property name="SleeperVolumeGroup" value="S_LootRoom_L,-1,-1,S_Default_L,-1,-1" />
+    <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass,3,4,S_-Group_Generic_Zombie,3,4" />
     <property name="SleeperVolumeGameStageAdjust" value="," />
     <property name="SleeperIsLootVolume" value="True,False" />
     <property name="ExcludePOICulling" value="False" />
     <property name="DifficultyTier" value="1" />
-    <property name="SleeperIsBossVolume" value="False,False" />
+    <property name="SleeperIsBossVolume" value="True,False" />
 </prefab>

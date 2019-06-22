@@ -12,7 +12,7 @@
     <property name="AllowedTownships" value="city,rural,town,wilderness" />
     <property name="SleeperVolumeStart" value="0, 2, 0" />
     <property name="SleeperVolumeSize" value="33, 13, 19" />
-    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5" />
     <property name="SleeperVolumeGameStageAdjust" value="" />
     <property name="SleeperIsLootVolume" value="False" />
     <property name="SleeperIsBossVolume" value="False" />

@@ -7,8 +7,8 @@
     <property name="Zoning" value="any" />
     <property name="YOffset" value="-1" />
     <property name="SleeperVolumeSize" value="12, 7, 16" />
-    <property name="SleeperVolumeStart" value="15, 6, 35" />
-    <property name="SleeperVolumeGroup" value="S_Default_L,-1,-1" />
+    <property name="SleeperVolumeStart" value="0, 5, 3" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6" />
     <property name="SleeperVolumeGameStageAdjust" value="" />
     <property name="SleeperIsLootVolume" value="False" />
     <property name="TraderArea" value="False" />

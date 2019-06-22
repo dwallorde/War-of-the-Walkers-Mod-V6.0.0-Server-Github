@@ -10,7 +10,7 @@
     <property name="AllowedTownships" value="city,rural,town" />
     <property name="SleeperVolumeStart" value="0, 1, 0" />
     <property name="SleeperVolumeSize" value="31, 3, 32" />
-    <property name="SleeperVolumeGroup" value="S_DwallsAutoGroup_XL,-1,-1" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,7,8" />
     <property name="SleeperVolumeGameStageAdjust" value="" />
     <property name="SleeperIsLootVolume" value="False" />
     <property name="ExcludePOICulling" value="False" />

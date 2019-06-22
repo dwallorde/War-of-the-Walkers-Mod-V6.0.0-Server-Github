@@ -10,11 +10,11 @@
     <property name="RotationToFaceNorth" value="2" />
     <property name="AllowedTownships" value="city,town,rural" />
     <property name="SleeperVolumeSize" value="40, 6, 28#40, 5, 28#33, 4, 22" />
-    <property name="SleeperVolumeStart" value="9, 3, -4#9, 10, -4#12, 16, -1" />
-    <property name="SleeperVolumeGroup" value="S_Default_XL,-1,-1,S_Default_XL,-1,-1,S_LootRoom_XL,-1,-1" />
+    <property name="SleeperVolumeStart" value="8, 2, 20#8, 9, 20#12, 15, 23" />
+    <property name="SleeperVolumeGroup" value="S_Default_XL,7,8,S_Default_XL,7,8,S_LootRoom_XL,5,6" />
     <property name="SleeperVolumeGameStageAdjust" value=",," />
     <property name="SleeperIsLootVolume" value="False,False,True" />
     <property name="ExcludePOICulling" value="False" />
     <property name="DifficultyTier" value="1" />
-    <property name="SleeperIsBossVolume" value="False,False,False" />
+    <property name="SleeperIsBossVolume" value="False,False,True" />
 </prefab>

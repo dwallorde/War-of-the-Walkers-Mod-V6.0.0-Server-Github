@@ -9,9 +9,9 @@
     <property name="YOffset" value="-5" />
     <property name="RotationToFaceNorth" value="2" />
     <property name="AllowedTownships" value="city,town,rural" />
-    <property name="SleeperVolumeSize" value="40, 7, 40#8, 3, 10" />
-    <property name="SleeperVolumeStart" value="5, 4, 9#35, 3, 37" />
-    <property name="SleeperVolumeGroup" value="S_Default_L,-1,-1,S_Default_S,-1,-1" />
+    <property name="SleeperVolumeSize" value="40, 7, 40#10, 3, 12" />
+    <property name="SleeperVolumeStart" value="1, 4, 2#30, 1, 29" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,3,4" />
     <property name="SleeperVolumeGameStageAdjust" value="," />
     <property name="SleeperIsLootVolume" value="False,False" />
     <property name="ExcludePOICulling" value="False" />

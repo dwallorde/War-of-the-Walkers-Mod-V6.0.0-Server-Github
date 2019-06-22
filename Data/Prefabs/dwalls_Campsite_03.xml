@@ -7,8 +7,8 @@
     <property name="Zoning" value="NoZone" />
     <property name="DistantPOIYOffset" value="0" />
     <property name="SleeperVolumeStart" value="-1, 0, -1" />
-    <property name="SleeperVolumeSize" value="17, 3, 22" />
-    <property name="SleeperVolumeGroup" value="S_Default_S,-1,-1" />
+    <property name="SleeperVolumeSize" value="17, 5, 22" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4" />
     <property name="SleeperVolumeGameStageAdjust" value="" />
     <property name="SleeperIsLootVolume" value="False" />
     <property name="ExcludePOICulling" value="False" />

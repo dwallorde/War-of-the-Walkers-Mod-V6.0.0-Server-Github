@@ -7,7 +7,7 @@
     <property name="AllowedTownships" value="city,town,rural,wilderness" />
     <property name="YOffset" value="-1" />
     <property name="SleeperVolumeSize" value="5, 3, 8" />
-    <property name="SleeperVolumeStart" value="34, 2, 30" />
+    <property name="SleeperVolumeStart" value="17, 1, 0" />
     <property name="SleeperVolumeGroup" value="S_DwallsFarmGroup_Med,-1,-1" />
     <property name="SleeperVolumeGameStageAdjust" value="" />
     <property name="SleeperIsLootVolume" value="False" />
